@@ -14,7 +14,5 @@
 -cd into the repo directory
 -run it using liveserver
 
-#Craete by
-Kelvina Wambui
-0798767993
+
 
